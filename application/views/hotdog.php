@@ -7,7 +7,7 @@
 				<li>
 					<h2><a href="/menu/hotdog">Hotdog Special</a></h2>
 					<p>
-						This website template has been designed by Free Website Templates for you, for free. You can replace all this text with your own text.
+                                            This a cheesy joke on hotdig.
 					</p>
 					<span class="price">99&cent;</span>
 				</li>
